@@ -1,0 +1,11 @@
+.menu{
+    /* border: 1px solid green; */
+    text-align: left;
+    padding-left: 5%;
+    padding-top: 20px;
+}
+.graph{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
